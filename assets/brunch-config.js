@@ -52,7 +52,7 @@ exports.config = {
 
   modules: {
     autoRequire: {
-      "js/app.js": ["js/app"]
+      "js/app.js": ["js/app", "js/SimpleRoot.bs.js"]
     }
   },
 
