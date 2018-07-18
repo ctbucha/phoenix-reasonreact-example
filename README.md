@@ -1,3 +1,9 @@
+# Phoenix ReasonReact Example
+
+This is a simple example of serving a ReasonReact client from a Phoenix web
+application. For the full blog post describing how to build this application,
+[please see here](https://craigc0de.blogspot.com/2018/07/phoenix-reasonreact-full-stack.html).
+
 # Myapp
 
 To start your Phoenix server:
